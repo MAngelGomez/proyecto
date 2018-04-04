@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//version 2 GitHub
 public class Ejercicio1 {
 		
 	// Constantes
