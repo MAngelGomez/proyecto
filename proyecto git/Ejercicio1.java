@@ -9,7 +9,7 @@ public class Ejercicio1 {
 	private static final int LIMITE_ADOLESCENTE = 17;
 	private static final int LIMITE_JOVEN = 29;
 	
-	private static Scanner teclado = new Scanner(System.in); //cambio migue
+	private static Scanner teclado = new Scanner(System.in); //cambio migue y noelia
 	
 	public static void main(String[] args) {
 		// Variables
