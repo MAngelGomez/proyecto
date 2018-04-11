@@ -8,8 +8,8 @@ public class Ejercicio1 {
 	private static final int LIMITE_NINNO = 12;
 	private static final int LIMITE_ADOLESCENTE = 17;
 	private static final int LIMITE_JOVEN = 29;
-	
-	private static Scanner teclado = new Scanner(System.in);
+
+	private static Scanner teclado = new Scanner(System.in);	//Cambio 1 Noelia
 	
 	public static void main(String[] args) {
 		// Variables
